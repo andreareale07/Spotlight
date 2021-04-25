@@ -1,5 +1,5 @@
 # Spotlight
-It is a simple customizable search tool.
+It's a simple customizable search tool.
 
 With spotlight you can perform:
 - Mathematical calculations (just type for example 1+1 or 5*4 and press enter).
